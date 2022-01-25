@@ -13,9 +13,9 @@ It's completly coded in python along with mysql.(Tkinter For GUI)
 
 ```markdown   
 
-# Python Programming
+# Lazy af College Students
 ## Android Development
-### AI and Web Development
+### Python Developers
 
 - Non profit community
 - Formed By Bharath Krishna
