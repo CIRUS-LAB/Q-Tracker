@@ -21,7 +21,7 @@ It's completly coded in python along with mysql.(Tkinter For GUI)
 - Formed By Bharath Krishna
 
 #Senior Developers
-1. Adithya Krishnan. fal3n.4ngel Github/ Insta - 4di.krish
-2. Bharath Krishna. Th3_nuclear_rebel Insta
+1. Adithya Krishnan. 
+2. Bharath Krishna. 
 
 ```
